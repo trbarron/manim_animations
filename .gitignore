@@ -1,0 +1,10 @@
+videos/*
+manim/.github
+manim/logo
+manim/docs
+manim/__pycache__
+manim/manimlib
+manim/media
+manim/README.md
+manim/requirements.txt
+__pycache__/riddler.cpython-38.pyc
